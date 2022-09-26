@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-28T22:37:30 EDT" name="Default suite" finished-at="2021-05-28T22:38:06 EDT" duration-ms="35893">
+    <groups>
+    </groups>
+    <test started-at="2021-05-28T22:37:30 EDT" name="Default test" finished-at="2021-05-28T22:38:06 EDT" duration-ms="35893">
+      <class name="com.testautomation.mobile.scripts.PageObjectTestCase">
+        <test-method signature="pageObjectTestCase()[pri:0, instance:com.testautomation.mobile.scripts.PageObjectTestCase@345e5a17]" started-at="2021-05-28T22:37:30 EDT" name="pageObjectTestCase" finished-at="2021-05-28T22:38:06 EDT" duration-ms="35837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObjectTestCase -->
+      </class> <!-- com.testautomation.mobile.scripts.PageObjectTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
